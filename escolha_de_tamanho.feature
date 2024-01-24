@@ -9,9 +9,7 @@
      Dado que eu esteja comprando um produto
 
         Esquema do Cenário: Seleção de cor temanho e quantidade
-        Quando escolher o <tamanho>
-        E a <quantidade>
-        E a <cor>
+        Quando escolher o <tamanho>, <cor> e <quantidade>
         Então inserir no carrinho
 
             Exemplos:
